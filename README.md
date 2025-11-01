@@ -42,7 +42,7 @@ Currently working on advanced analytics projects and continuously expanding skil
 | Wine Quality Prediction          | Regression model to predict wine rating           | Python, ML          |  🔗  |
 | Car Rental System                | Command-line system with Python & file handling   | Python, OOP         |  🔗  |
 | SQL + Python Music Data          | Data analysis + SQL integration                   | Python, MySQL       |  🔗  |
-| CRUD in MySQL                    | Full CRUD using Python                            | Python, MySQL       |  🔗  |
+| CRUD Operations in MySQL                    | Full CRUD using Python                            | Python, MySQL       |  🔗  |
 | Command-line Analytics Tool      | CLI tool for data exploration                     | Python              |  🔗  |
 | Superstore Analysis              | BI & insights from retail data                    | Excel / Python      |  🔗  |
 | Blinkit Dashboard                | Sales analytics dashboard                         | PowerBI             |  🔗  |
